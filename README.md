@@ -47,7 +47,11 @@ Correlation analysis between production levels and affordability
 
 Sentiment trends from questionnaire responses
 
-##Final Thoughts 🎯
+## Streamlite 
+
+To further enhance the interactivity of the project, I created a Streamlit app that displays the visualizations and allows users to dive deeper into the data. The app integrates real-time SQL queries with the visual insights, offering a seamless exploration experience.
+
+## Final Thoughts 🎯
 
 This project represents the culmination of my learning journey, where I have applied advanced data analytics techniques to uncover meaningful insights. Through this analysis, I aim to demonstrate not only my technical capabilities but also my ability to tell a compelling data-driven story.
 
