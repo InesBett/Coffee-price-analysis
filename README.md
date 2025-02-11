@@ -1,3 +1,6 @@
+
+![Black-Coffee-easy-Recipe](https://github.com/user-attachments/assets/809c9dc0-3591-437a-b6a7-7fa1730b5d56)
+
 # ☕ The Price of a Cup: Does Coffee Production Influence Affordability?
 
 ## Project Overview
