@@ -35,6 +35,7 @@ Here is breakdown of the contents of the coffee consumption dataset:
 *Avg Price Per Cup (USD)*: The average price of a cup of coffee in each country based on production and market trends.
 
 
+
 **Coffee Consumption Dataset**: This dataset was obtained through web scraping and details coffee consumption trends across different countries.
 
 Here is breakdown of the contents of the coffee consumption dataset:
