@@ -156,6 +156,6 @@ A special thanks to my teachers for their invaluable guidance and support throug
 
 ## Author ✍️
 
-Inês BettencourtData Analyst Bootcamp Student - 2024/2025
+Inês Bettencourt  Data Analyst Bootcamp Student - 2024/2025
 
 Aspiring Data Analyst and coffee enthusiast, blending data storytelling with the rich heritage of coffee cultivation. Special thanks to the data science community for fueling this journey. Cheers to insights and innovation! ☕📊
