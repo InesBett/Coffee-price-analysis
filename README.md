@@ -74,14 +74,18 @@ Before diving into the analysis, I had to ensure my datasets were clean, consist
 Production Dataset – Standardizing for Accuracy 
 
 ✔ Dropped missing values to eliminate incomplete records.
+
 ✔ Removed unnecessary columns to keep only relevant information.
+
 ✔ Checked for duplicates and empty spaces to prevent distortions in analysis.
+
 ✔ Standardized country names – For example, some entries listed USA while others had United States of America. To maintain uniformity, I merged them into a single, consistent format.
 
 Consumption Dataset – Making the Data Usable 
 
 This dataset contained symbols and formatting issues that prevented smooth numerical analysis. To clean it, I:
 ✔ Removed unwanted symbols to convert all relevant variables into numeric format.
+
 ✔ Ensured uniformity across all data points for accurate comparison and calculations.
 
 With both datasets properly cleaned and structured, I was ready to move forward with analysis and uncover meaningful insights! 🚀
