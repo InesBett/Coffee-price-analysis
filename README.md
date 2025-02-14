@@ -83,7 +83,8 @@ Production Dataset – Standardizing for Accuracy
 
 Consumption Dataset – Making the Data Usable 
 
-This dataset contained symbols and formatting issues that prevented smooth numerical analysis. To clean it, I:
+This dataset contained symbols and formatting issues that prevented smooth numerical analysis. 
+
 ✔ Removed unwanted symbols to convert all relevant variables into numeric format.
 
 ✔ Ensured uniformity across all data points for accurate comparison and calculations.
