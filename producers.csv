@@ -1,0 +1,166 @@
+categories,country,2020,2021,2022,2023,2024,2025,avg_price_per_cup
+Arabica Production ,Brazil,49700,36400,39800,44900,48200,45400, 1.55
+Arabica Production ,Colombia,13400,11800,10700,12760,12400,12900, 1.14
+Arabica Production ,Ethiopia,7600,8150,7300,8600,8360,8360, 0.78
+Arabica Production ,Honduras,6500,4800,5700,5000,5300,5300, 1.80
+Arabica Production ,Peru,3369,4200,3475,4000,4250,4350, 2.50
+Arabica Production ,Mexico,3000,3200,3000,3325,3350,3325, 2.55
+Arabica Production ,Guatemala,3810,3410,3150,3300,3000,3300, 2.37
+Arabica Production ,Nicaragua,2550,2718,2430,2200,2525,2525, 2.26
+Arabica Production ,China,1900,1800,1800,1800,1900,1800, 3.56
+Arabica Production ,Indonesia,1300,1280,1200,1350,1400,1400, 2.06
+Arabica Production ,India,1650,1583,1667,1480,1400,1400, 1.83
+Arabica Production ,Costa Rica,1472,1215,1100,1100,1100,1100, 2.55
+Arabica Production ,Vietnam,950,1100,1000,1000,1150,1100, 1.99
+Arabica Production ,Uganda,730,990,990,1000,1000,1000, 2.86
+Arabica Production ,Papua New Guinea,650,725,825,930,825,915, 2.00
+Robusta Production      ,Vietnam,28050,30480,27300,26500,27850,29000, 1.99
+Robusta Production      ,Brazil,20200,21700,22800,21400,21700,21000, 1.55
+Robusta Production      ,Indonesia,9400,9300,9500,6800,9500,9500, 2.06
+Robusta Production      ,Uganda,5900,5060,5575,5400,5400,5400, 2.86
+Robusta Production      ,India,3917,4117,4200,4580,4600,4800, 1.83
+Robusta Production      ,Malaysia,2000,2000,2000,1330,1500,1500, 2.29
+Robusta Production      ,Cote d'Ivoire,910,1110,1020,1325,1400,1400, 2.52
+Robusta Production      ,Thailand,600,650,700,750,700,700, 1.81
+Robusta Production      ,Tanzania,525,550,550,600,625,625, 1.76
+Robusta Production      ,Mexico,530,540,545,545,550,545, 2.55
+Production        ,Brazil,69900,58100,62600,66300,69900,66400, 1.55
+Production        ,Vietnam,29000,31580,28300,27500,29000,30100, 1.99
+Production        ,Colombia,13400,11800,10700,12760,12400,12900, 1.57
+Production        ,Indonesia,10700,10580,10700,8150,10900,10900, 1.85
+Production        ,Ethiopia,7600,8150,7300,8600,8360,8360, 0.78
+Production        ,Uganda,6630,6050,6565,6400,6400,6400, 0.42
+Production        ,India,5567,5700,5867,6060,6000,6200, 1.81
+Production        ,Honduras,6500,4800,5700,5000,5300,5300, 0.86
+Production        ,Peru,3369,4200,3475,4000,4250,4350, 2.61
+Production        ,Mexico,3530,3740,3545,3870,3900,3870, 3.00
+Production        ,Guatemala,3939,3540,3270,3420,3120,3420, 1.13
+Production        ,Nicaragua,2650,2838,2590,2360,2685,2685, 0.96
+Production        ,China,1900,1800,1800,1800,1900,1800, 3.07
+Production        ,Malaysia,2000,2000,2000,1330,1500,1500, 2.65
+Production        ,Cote d'Ivoire,910,1100,1020,1325,1400,1400, 2.42
+Production        ,Tanzania,1125,1200,1200,1350,1400,1400, 2.14
+Production        ,Costa Rica,1572,1215,1100,1100,1110,1110, 3.86
+Production        ,Papua New Guinea,700,775,875,980,875,965, 2.00
+Production        ,Kenya,693,860,750,775,750,750, 2.17
+Production        ,Thailand,600,650,700,750,700,700, 2.04
+Production        ,El Salvador,540,600,550,500,450,500, 3.36
+Production        ,Venezuela,480,500,500,500,500,500, 2.24
+Production        ,Laos,485,385,410,430,450,450, 2.16
+Production        ,Philippines,425,450,475,450,450,450, 2.29
+Production        ,Ecuador,255,260,354,370,355,355, 2.44
+Bean Export,Brazil,41689,35576,32200,43100,42500,40500, 1.55
+Bean Export,Vietnam,22450,26110,26000,22600,24400,24400, 1.99
+Bean Export,Colombia,11500,11000,9450,10700,10800,10900, 1.57
+Bean Export,Indonesia,6466,6335,6735,4285,6500,6500, 1.85
+Bean Export,Uganda,6514,5850,6250,6300,6300,6300, 0.42
+Bean Export,Ethiopia,4675,4831,3910,5610,4800,5200, 0.78
+Bean Export,Honduras,6010,4650,5310,4700,5000,4900, 0.86
+Bean Export,India,3818,4937,3924,4360,4200,4400, 1.81
+Bean Export,Peru,3326,4965,3325,3920,4100,4200, 2.61
+Bean Export,Guatemala,3675,3335,3000,3150,2840,3200, 1.13
+Roast and Ground Exports,European Union,2415,2680,2990,3110,2100,2100, 4.50
+Roast and Ground Exports,Switzerland,1870,1850,1765,1800,1850,1850, 5.90
+Roast and Ground Exports,Vietnam,550,550,450,400,400,400, 1.99
+Roast and Ground Exports,Colombia,245,265,210,230,200,200, 1.57
+Roast and Ground Exports,China,40,65,20,150,20,100, 3.56
+Roast and Ground Exports,Mexico,252,148,120,70,150,100, 3.00
+Roast and Ground Exports,Brazil,32,54,45,50,51,50, 1.55
+Roast and Ground Exports,Indonesia,56,43,57,70,50,50, 1.85
+Roast and Ground Exports,Panama,30,32,32,28,35,30, 2.94
+Roast and Ground Exports,Costa Rica,10,10,10,10,10,10, 2.60
+Soluble Exports,Brazil,3954,4055,3900,3600,4100,3700, 1.55
+Soluble Exports,Vietnam,2300,2350,1890,2000,1700,2500, 1.99
+Soluble Exports,Malaysia,2780,2975,2500,2300,2400,2400, 2.65
+Soluble Exports,India,1970,2310,2490,2535,2130,2130, 1.81
+Soluble Exports,European Union,1460,1805,1715,1925,1500,1500, 4.50
+Soluble Exports,Indonesia,1350,1050,1040,1000,1000,1000, 1.85
+Soluble Exports,Thailand,885,990,900,1095,1000,1000, 2.04
+Soluble Exports,Mexico,865,695,880,900,950,950, 3.00
+Soluble Exports,Colombia,1010,1100,950,830,1000,900, 1.57
+Soluble Exports,China,380,375,450,475,325,400, 3.56
+Exports,Brazil,45675,39685,36145,46750,46651,44250, 1.55
+Exports,Vietnam,25300,29010,28340,25000,26500,27300, 1.99
+Exports,Colombia,12755,12365,19610,11760,12000,12000, 1.57
+Exports,Indonesia,7872,7428,7832,5355,7550,7550, 1.85
+Exports,India,5794,7258,6420,6906,6340,6540, 1.81
+Exports,Uganda,6514,5850,6250,6300,6300,6300, 0.42
+Exports,Ethiopia,4675,4831,3910,5610,4800,5200, 0.78
+Exports,Honduras,6010,4650,5310,4700,5000,4900, 0.86
+Exports,Peru,3326,4065,3325,3920,4100,4200, 2.61
+Exports,European Union,3875,4485,4705,5035,3600,3600, 4.50
+Bean Imports,European Union,43875,46600,44540,43975,47500,45000, 4.50
+Bean Imports,United States,24320,25255,22540,21480,24500,22300, 4.36
+Bean Imports,Japan,6520,6800,5860,6220,6500,6500, 3.10
+Bean Imports,China,1675,1660,1965,3405,3000,3600, 3.56
+Bean Imports,Russia,3390,3400,3500,3500,3500,3500, 2.91
+Bean Imports,Switzerland,3450,3400,3290,3345,3300,3300, 5.90
+Bean Imports,Canada,2860,2940,2700,2980,2900,3100, 2.60
+Bean Imports,South Korea,2635,3015,2820,2960,2900,3100, 3.59
+Bean Imports,United Kingdom,22270,2725,2285,2450,2450,2600, 2.83
+Bean Imports,Algeria,2200,2050,2000,1900,1900,2000, 0.94
+Roast and Ground Imports ,United Kingdom,580,580,775,740,700,700, 2.83
+Roast and Ground Imports ,United States,605,580,640,770,600,700, 4.36
+Roast and Ground Imports ,Canada,475,550,450,185,400,400, 2.60
+Roast and Ground Imports ,South Korea,360,390,355,390,375,400, 3.59
+Roast and Ground Imports ,Ukraine,460,450,400,440,400,400, 1.28
+Roast and Ground Imports ,Russia,460,305,350,350,350,350, 2.91
+Roast and Ground Imports ,Australia,205,200,200,185,200,200, 3.34
+Roast and Ground Imports ,China,310,350,290,210,250,200, 3.56
+Roast and Ground Imports ,Saudi Arabia,200,210,200,200,200,200, 3.82
+Roast and Ground Imports ,Vietnam,200,200,8,200,300,200, 1.99
+Soluble Imports    ,Philippines,5500,5700,5200,5000,5500,5000, 2.47
+Soluble Imports    ,Canada,1660,1840,1960,1815,1900,1900, 2.60
+Soluble Imports    ,China,1825,2170,1975,1870,1800,1800, 3.56
+Soluble Imports    ,Indonesia,751,725,983,1000,1000,1000, 1.85
+Soluble Imports    ,United Kingdom,105,680,920,950,900,1000, 2.83
+Soluble Imports    ,United States,585,680,725,950,900,1000, 4.36
+Soluble Imports    ,Japan,530,500,535,590,650,650, 3.10
+Soluble Imports    ,Kazakhstan,210,325,500,500,500,500, 1.75
+Soluble Imports    ,Russia,315,350,400,400,400,400, 2.91
+Soluble Imports    ,Guatemala,350,344,345,355,350,370, 1.13
+Imports,European Union,43875,46600,44540,43975,47500,45000, 4.50
+Imports,United States,25510,27025,23905,23500,26000,23900, 4.36
+Imports,Japan,7150,7415,6505,6905,7260,7250, 3.10
+Imports,Philippines,6160,6540,5900,5850,6300,5800, 2.47
+Imports,China,3810,4180,4230,5485,5050,5600, 3.56
+Imports,Canada,4995,5330,5110,4980,5200,5400, 2.60
+Imports,United Kingdom,2955,3985,3980,4140,4050,4300, 2.83
+Imports,Russia,4165,4055,4250,4250,4250,4250, 2.91
+Imports,South Korea,2995,3405,3175,3350,3275,3500, 3.59
+Imports,Switzerland,3450,3400,3290,3345,3300,3300, 5.90
+Domestic Consumption,European Union,41271,41882,44522,39607,41800,42046, 4.50
+Domestic Consumption,United States,25922,26708,24623,23550,26050,23950, 4.36
+Domestic Consumption,Brazil,22280,22340,22450,22560,22670,22670, 1.55
+Domestic Consumption,Japan,7354,7210,6886,6996,7300,7176, 3.10
+Domestic Consumption,Philippines,6585,7190,6475,6500,7050,6550, 2.47
+Domestic Consumption,China,4480,4920,5280,5765,6200,6300, 3.56
+Domestic Consumption,Canada,4995,5330,5110,4980,5200,5400, 2.60
+Domestic Consumption,Indonesia,4450,4750,4771,4775,4800,4800, 1.85
+Domestic Consumption,United Kingdom,2955,3985,3980,4140,4050,4300, 2.83
+Domestic Consumption,Russia,4165,4055,4250,4250,4250,4250, 2.91
+Domestic Consumption,Vietnam,2720,3200,3200,3330,3600,3600, 1.99
+Domestic Consumption,South Korea,2995,3405,3175,3350,3275,3500, 3.59
+Domestic Consumption,Mexico,2589,2850,3035,3190,3100,3150, 3.00
+Domestic Consumption,Ethiopia,3000,3364,3430,3000,3550,3100, 0.78
+Domestic Consumption,Colombia,2080,2145,2150,2278,2275,2280, 1.57
+Domestic Consumption,Australia,2055,2305,2135,2090,2200,2200, 3.34
+Domestic Consumption,Algeria,2240,2090,2050,1950,1950,2050, 0.94
+Domestic Consumption,Turkey,1165,1285,1590,1545,1625,1575, 1.54
+Domestic Consumption,Saudi Arabia,1200,1140,1380,1440,1350,1350, 3.82
+Domestic Consumption,Iran,425,635,770,1040,1000,1100, 1.67
+Domestic Consumption,Switzerland,1180,1185,1160,1185,1100,1100, 5.90
+Domestic Consumption,Ukraine,1235,1300,1090,1120,1120,1070, 1.28
+Domestic Consumption,India,1180,875,900,950,1320,1025, 1.81
+Domestic Consumption,Thailand,650,725,730,880,925,925, 2.04
+Domestic Consumption,Jordan,845,730,725,805,810,825, 3.39
+Ending Stocks,European Union,13767,14000,9313,8646,11600,8000, 4.50
+Ending Stocks,United States,6023,6378,5700,5700,5700,5700, 4.36
+Ending Stocks,Japan,2693,2898,2517,2426,2072,2500, 3.10
+Ending Stocks,Brazil,4390,540,4620,1685,3539,1240, 1.55
+Ending Stocks,Vietnam,3660,3580,839,839,439,939, 1.99
+Ending Stocks,Colombia,1235,760,885,680,590,685, 1.57
+Ending Stocks,China,488,358,303,558,458,558, 3.56
+Ending Stocks,Indonesia,1669,1056,500,480,550,550, 1.85
+Ending Stocks,Mexico,17,99,79,213,48,173, 3.00
+Ending Stocks,Ethiopia,135,90,50,40,90,100, 0.78
