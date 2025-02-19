@@ -10,6 +10,7 @@ Welcome to my final project, a comprehensive analysis of coffee consumption, pri
 
 This analysis explores the relationship between coffee producer prices and consumer prices, assessing whether coffee-producing countries (Brazil, Colombia, Ethiopia) have lower retail coffee costs compared to non-producing nations (Luxembourg, Finland). Additionally, it investigates how production levels influence affordability and incorporates sentiment analysis to gain insights into consumer perceptions.
 
+I created a [Trello board](https://trello.com/invite/b/6751e9d73b69122a7e6fdffe/ATTI3182dcc47de494fa3976712acf7891971F277DC1/final-project) to keep track of my work and stay organized throughout the project.
 
 ## Exploring the Price Trends among Consumer and Producer Countries 🌎
 
@@ -161,9 +162,9 @@ These queries provide a structured approach to extracting meaningful insights an
 
 ## Streamlite and Tableau
 
-To further enhance the interactivity of the project, I created a Streamlit app that displays the visualizations and allows users to dive deeper into the data. The app integrates real-time SQL queries with the visual insights, offering a seamless exploration experience.
+To further enhance the interactivity of the project, I created a [Streamlit app](https://coffee-price-analysis-appfinalproject.streamlit.app/) that displays the visualizations and allows users to dive deeper into the data. The app integrates real-time SQL queries with the visual insights, offering a seamless exploration experience.
 
-I also created a Tableau dashboard to effectively showcase the key findings in a visually compelling way.
+I also created a [Tableau dashboard](https://public.tableau.com/app/profile/in.s.bettencourt/viz/CoffeeAnalysis-ProductionvsConsumption/CoffeeAnalysis-ProductionVsConsumption?publish=yes) to effectively showcase the key findings in a visually compelling way.
 
 
 ## Final Thoughts ☕
