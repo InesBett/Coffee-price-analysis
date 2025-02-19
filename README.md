@@ -12,6 +12,8 @@ This analysis explores the relationship between coffee producer prices and consu
 
 I created a [Trello board](https://trello.com/invite/b/6751e9d73b69122a7e6fdffe/ATTI3182dcc47de494fa3976712acf7891971F277DC1/final-project) to keep track of my work and stay organized throughout the project.
 
+Lastly to effectively communicate the key insights and findings of my project, I created a [Canva presentation](https://www.canva.com/design/DAGeXW8sogM/rlkMTtAK2sLF_VppaOX6JQ/edit?utm_content=DAGeXW8sogM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) with a clear and engaging visual narrative.
+
 ## Exploring the Price Trends among Consumer and Producer Countries 🌎
 
 Coffee is more than just a drink, it’s a global industry shaped by history, culture, and trade. This project delves into coffee production data to uncover trends, insights, and patterns that define the coffee landscape worldwide.
